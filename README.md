@@ -18,7 +18,7 @@
 
 📫 Я открыт к предложениям о сотрудничестве. Обсуждения и предложения сюда 
 
-tg: @max_golev или на почту golewoood@gmail.com
+[@max_golev](https://t.me/max_golev) / golewoood@gmail.com
 
 <!---
 Golewoood/Golewoood is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
